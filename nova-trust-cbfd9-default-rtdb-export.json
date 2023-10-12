@@ -1,0 +1,558 @@
+{
+  "Documents": {
+    "167988": {
+      "backImage": "https://firebasestorage.googleapis.com/v0/b/whale-profits.appspot.com/o/Document_image%2F1696524859407_0.jpeg?alt=media&token=7b900e25-6ba2-4441-9e42-f557baaa505c",
+      "frontImage": "https://firebasestorage.googleapis.com/v0/b/whale-profits.appspot.com/o/Document_image%2F1696524850097_0.jpeg?alt=media&token=29fbe08e-75f8-4ce2-89fa-24e5be3d7383",
+      "verified": true
+    },
+    "484805": {
+      "backImage": "https://firebasestorage.googleapis.com/v0/b/whale-profits.appspot.com/o/Document_image%2F1696527467795_0.png?alt=media&token=dc37fd33-7ff6-43cd-879c-a8dbc9bb77fc",
+      "frontImage": "https://firebasestorage.googleapis.com/v0/b/whale-profits.appspot.com/o/Document_image%2F1696527460512_0.png?alt=media&token=07260140-0cf1-46e3-9dd1-7b4cd61ad9fc",
+      "verified": true
+    },
+    "558107": {
+      "backImage": "https://firebasestorage.googleapis.com/v0/b/whale-profits.appspot.com/o/Document_image%2F1696355236270_0.jpeg?alt=media&token=dd0f3815-192a-4d34-bf91-571032d124ca",
+      "frontImage": "https://firebasestorage.googleapis.com/v0/b/whale-profits.appspot.com/o/Document_image%2F1696355227168_0.jpeg?alt=media&token=09b473af-408a-47c1-87a4-c6510e22605e",
+      "verified": true
+    },
+    "665416": {
+      "backImage": "https://firebasestorage.googleapis.com/v0/b/whale-profits.appspot.com/o/Document_image%2F1696525996730_0.png?alt=media&token=b27a118b-55c9-4db5-8d87-6e53eed8c6b5",
+      "frontImage": "https://firebasestorage.googleapis.com/v0/b/whale-profits.appspot.com/o/Document_image%2F1696525985613_0.png?alt=media&token=c2a19c3a-7ccc-48af-b195-8c92c307160d",
+      "verified": true
+    },
+    "719240": {
+      "backImage": "https://firebasestorage.googleapis.com/v0/b/whale-profits.appspot.com/o/Document_image%2F1696526936334_0.png?alt=media&token=2d825ab1-5d6f-41fb-bf7b-3d7c97678b89",
+      "frontImage": "https://firebasestorage.googleapis.com/v0/b/whale-profits.appspot.com/o/Document_image%2F1696526927616_0.png?alt=media&token=9a94ace9-c4ce-4bce-92e3-5a41b999d161",
+      "verified": true
+    },
+    "727193": {
+      "backImage": "https://firebasestorage.googleapis.com/v0/b/nova-trust-cbfd9.appspot.com/o/Document_image%2F1697116193514_0.png?alt=media&token=47d33b57-93c0-47e0-9ac6-9b653856f2ab",
+      "frontImage": "https://firebasestorage.googleapis.com/v0/b/nova-trust-cbfd9.appspot.com/o/Document_image%2F1697116184315_0.png?alt=media&token=dcaf1a55-8772-4414-8d39-92f8ab666f96",
+      "verified": false
+    },
+    "767740": {
+      "backImage": "https://firebasestorage.googleapis.com/v0/b/whale-profits.appspot.com/o/Document_image%2F1696178099397_0.jpeg?alt=media&token=ec8a22e3-4011-42ce-a23b-7add7414a931",
+      "frontImage": "https://firebasestorage.googleapis.com/v0/b/whale-profits.appspot.com/o/Document_image%2F1696178069562_0.jpeg?alt=media&token=0ab5e2e0-f905-4b96-a542-f0189394c820",
+      "verified": true
+    },
+    "793175": {
+      "backImage": "https://firebasestorage.googleapis.com/v0/b/whale-profits.appspot.com/o/Document_image%2F1696515338789_0.jpg?alt=media&token=3a3a519c-7d33-4e69-ad2f-442c20cd89d9",
+      "frontImage": "https://firebasestorage.googleapis.com/v0/b/whale-profits.appspot.com/o/Document_image%2F1696515330752_0.jpg?alt=media&token=60b1a6a3-093b-4d94-9c52-1316ac738f68",
+      "verified": true
+    },
+    "991612": {
+      "backImage": "https://firebasestorage.googleapis.com/v0/b/whale-profits.appspot.com/o/Document_image%2F1696527393071_0.png?alt=media&token=a00923aa-0a37-4343-bfda-8bb94d5ebbe5",
+      "frontImage": "https://firebasestorage.googleapis.com/v0/b/whale-profits.appspot.com/o/Document_image%2F1696527383003_0.png?alt=media&token=6bf0981f-7fd9-4a51-a514-636de5a4fdb7",
+      "verified": true
+    },
+    "998324": {
+      "backImage": "https://firebasestorage.googleapis.com/v0/b/whale-profits.appspot.com/o/Document_image%2F1696526784682_0.png?alt=media&token=bdfa44ae-750e-4d76-8a52-6a7b7f46154c",
+      "frontImage": "https://firebasestorage.googleapis.com/v0/b/whale-profits.appspot.com/o/Document_image%2F1696526775852_0.png?alt=media&token=edafcdfa-7745-432b-acc5-3e439bf81898",
+      "verified": true
+    },
+    "095846": {
+      "backImage": "https://firebasestorage.googleapis.com/v0/b/whale-profits.appspot.com/o/Document_image%2F1696527102761_0.png?alt=media&token=9ac524ad-e00b-4330-ac98-251a652754ca",
+      "frontImage": "https://firebasestorage.googleapis.com/v0/b/whale-profits.appspot.com/o/Document_image%2F1696527080546_0.png?alt=media&token=fb41d0a7-ce69-4855-9835-2070beb59da2",
+      "verified": true
+    }
+  },
+  "aboutus": "Welcome to NovaTrust, where your financial dreams take flight. We are a dynamic and forward-thinking financial partner committed to guiding individuals on their journey to financial success. At NovaTrust, we recognize the complexities of the financial world and aim to simplify it for everyone, regardless of their level of expertise.\n\nOur Commitment\n\nOur commitment to you is rooted in trust, transparency, and expertise. We firmly believe that financial empowerment should be accessible to all, and our mission is to provide a secure and user-friendly platform that transforms your financial aspirations into reality.\n\nWhat Sets Us Apart\n\nAt NovaTrust, we stand out through our dedication to intelligent investing. Our team of seasoned financial experts conducts meticulous market analysis and deploys strategic approaches to optimize your investment returns. With NovaTrust, you're not just investing; you're investing intelligently and with confidence.\n\nTransparency is at the heart of our operations. NovaTrust offers a straightforward and clear profit-sharing system, distributing profits directly to your account twice a month. This transparency empowers you to monitor your financial progress effortlessly and make informed decisions about your investments.\n\nYour financial security and privacy are paramount to us. NovaTrust employs state-of-the-art security measures to protect your personal and financial information, ensuring your investments are not only profitable but also secure.\n\nOur user-centric approach revolves around making investing accessible and hassle-free. We highly value your feedback and continually enhance our user-friendly app to cater to the needs of all investors, from newcomers to seasoned professionals.\n\nJoin the NovaTrust Community\n\nBy joining NovaTrust, you're not just accessing an app; you're joining a thriving community of smart investors. Together, we can help you reach your financial goals, whether it's building an emergency fund, planning for retirement, or growing your wealth. NovaTrust is your trusted partner in the pursuit of financial success.\n\nExperience financial empowerment like never before. Download NovaTrust now and embark on your journey to financial prosperity.",
+  "addresses": {
+    "USDT(BEP-20)": {
+      "wallet": "test address"
+    },
+    "USDT(TRC-20)": {
+      "wallet": "test trx address"
+    },
+    "lastUpdateDate": "2023-09-30T11:47:56.535Z"
+  },
+  "completedContracts": {
+    "793175": {
+      "balance": 100,
+      "date": "2023-10-05T16:03:41.499Z",
+      "earned": 3000,
+      "level": 3,
+      "plan": 600
+    }
+  },
+  "courses": {
+    "-Ng-mc2DWjJQorwdrLk0": {
+      "id": "-Ng-mc2DWjJQorwdrLk0",
+      "links": [
+        null,
+        {
+          "link": "link test 2",
+          "title": "Day 2"
+        },
+        {
+          "link": "test 3",
+          "title": "link 3"
+        }
+      ],
+      "title": "Learning Investements Course"
+    },
+    "-Ng0WvN5a5VM-PMbfEbM": {
+      "id": "-Ng0WvN5a5VM-PMbfEbM",
+      "links": [
+        {
+          "link": "link test",
+          "title": "Link test"
+        }
+      ],
+      "title": "Course 2"
+    }
+  },
+  "learning": {
+    "-NflTg6OQz71ethTyz-c": {
+      "link": "https://www.youtube.com/watch?v=K1N7PB72ecA&ab_channel=AMTEE",
+      "title": "This video contains learning about investment"
+    },
+    "-NflU0iRYV8kH075opde": {
+      "link": "gfdh",
+      "title": "rtdyd"
+    },
+    "-NfqgCTnuivnKZjbEb2j": {
+      "link": "sdafasdfdf",
+      "title": "asfasdf"
+    }
+  },
+  "oneTimeRefferalPayment": {
+    "percentage": 15
+  },
+  "plans": [
+    null,
+    {
+      "amount": "200",
+      "level": "1",
+      "potentialEarning": "1000"
+    },
+    {
+      "amount": "400",
+      "level": "2",
+      "potentialEarning": "2000"
+    },
+    {
+      "amount": "600",
+      "level": "3",
+      "potentialEarning": "3000"
+    },
+    {
+      "amount": "800",
+      "level": "4",
+      "potentialEarning": "4000"
+    },
+    {
+      "amount": "1000",
+      "level": "5",
+      "potentialEarning": "5000"
+    },
+    {
+      "amount": "1500",
+      "level": "6",
+      "potentialEarning": "7500"
+    },
+    {
+      "amount": "2000",
+      "level": "7",
+      "potentialEarning": "10000"
+    }
+  ],
+  "popupConfig": {
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/nova-trust-cbfd9.appspot.com/o/PopUp_image.jpeg?alt=media&token=f2969b42-1ce9-4e98-8052-cfc952c90524",
+    "isEnabled": true,
+    "text": "Welcome to NovaTrust "
+  },
+  "privacypolicy": "Nova Trust Privacy Policy\nWelcome to Nova Trust, a trusted platform for investment in stocks, cryptocurrencies, trading, and ethical businesses. Your privacy and the security of your personal information are of utmost importance to us. This Privacy Policy outlines how Nova Trust collects, uses, shares, and protects your data when you use our Android app and related services.\n\nPlease read this policy carefully to understand our practices regarding your data and how we will treat it. By using the Nova Trust app and services, you consent to the practices described in this Privacy Policy.\n\nInformation We Collect\n1. Personal Information\nWhen you create an account, we collect information such as your name, email address, and a secure password.\n2. Verification Data\nTo ensure the security of our platform, we collect and verify your identity, including government-issued ID documents.\n3. Financial Information\nWhen you make deposits or withdrawals, we collect data related to your financial transactions, including transaction IDs and financial account details.\n4. Usage Information\nWe collect data about your interactions with the Nova Trust app, including the pages you visit, your investment activities, and the devices you use.\n5. Communication Data\nWe may collect data related to your interactions with our customer support team, including emails and chat logs.\nHow We Use Your Information\nWe use your information for the following purposes:\n\n1. Account Management\nTo create and manage your account.\nTo verify your identity for security purposes.\n2. Investment Services\nTo facilitate your investments and profit distributions.\nTo provide you with information about your investment portfolio.\n3. Customer Support\nTo respond to your inquiries and provide customer support.\n4. Legal and Regulatory Compliance\nTo comply with legal and regulatory obligations.\n5. Communication\nTo communicate with you about important updates, promotions, and offers.\n6. Analysis and Improvements\nTo analyze user trends and preferences to improve our services.\nData Sharing\nWe do not sell, rent, or trade your personal information to third parties for marketing purposes. However, we may share your data under certain circumstances:\n\nWith third-party service providers that assist us in delivering our services.\nWhen required by law or in response to legal requests.\nData Security\nNova Trust is committed to protecting your data. We employ industry-standard security measures to safeguard your information from unauthorized access, disclosure, or alteration. However, please be aware that no method of data transmission over the internet is entirely secure.\n\nData Retention\nWe will retain your personal information for as long as necessary to fulfill the purposes outlined in this Privacy Policy or as required by law.\n\nYour Rights\nYou have certain rights regarding your personal data:\n\nThe right to access and correct your data.\nThe right to request the deletion of your data.\nThe right to withdraw consent.\nThe right to request data portability.\nThe right to object to data processing.\nTo exercise these rights, please contact us at \nt.me/Co_NovatrustApp\n\nUpdates to Privacy Policy\nWe may update this Privacy Policy from time to time to reflect changes in our practices or for legal reasons. We will notify you of any significant changes.\n\nContact Us\nIf you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at t.me/co_NovatrustApp\nBy using the Nova Trust app and services, you acknowledge that you have read and understood this Privacy Policy and agree to its terms and conditions. We value your trust and are committed to protecting your privacy while providing you with a secure and reliable investment platform.",
+  "requests": {
+    "-Ng-BnWO6Uj6DBDf0yU9": {
+      "amount": "600",
+      "chain": "bnb",
+      "id": "qtKGMZesb1OkLhNMIB6oYSBChxq2",
+      "level": "3",
+      "referredBy": "767740",
+      "request": "Deposit",
+      "requestId": "-Ng-BnWO6Uj6DBDf0yU9",
+      "status": "Completed",
+      "timestamp": 1696515438906,
+      "trxId": "Test id",
+      "username": "793175"
+    },
+    "-Ng-DzBhelBgPnVXYVaU": {
+      "amount": "800",
+      "chain": "bnb",
+      "id": "qtKGMZesb1OkLhNMIB6oYSBChxq2",
+      "level": "4",
+      "referredBy": "767740",
+      "request": "Deposit",
+      "requestId": "-Ng-DzBhelBgPnVXYVaU",
+      "status": "Completed",
+      "timestamp": 1696516011019,
+      "trxId": "Dff",
+      "username": "793175"
+    },
+    "-Ng-YSCv63deqRsxIZNo": {
+      "amount": "400",
+      "chain": "USDT(BEP-20)",
+      "id": "qtKGMZesb1OkLhNMIB6oYSBChxq2",
+      "level": "2",
+      "referredBy": "767740",
+      "request": "Deposit",
+      "requestId": "-Ng-YSCv63deqRsxIZNo",
+      "status": "Completed",
+      "timestamp": 1696521376377,
+      "trxId": "id",
+      "username": "793175"
+    },
+    "-Ng-ZJz_quDlXQeQMKHk": {
+      "amount": "600",
+      "chain": "USDT(BEP-20)",
+      "id": "qtKGMZesb1OkLhNMIB6oYSBChxq2",
+      "level": "3",
+      "referredBy": "767740",
+      "request": "Deposit",
+      "requestId": "-Ng-ZJz_quDlXQeQMKHk",
+      "status": "Completed",
+      "timestamp": 1696521604815,
+      "trxId": "sda",
+      "username": "793175"
+    },
+    "-Ng-Zj5wIGCs4o5jd9S8": {
+      "amount": "600",
+      "chain": "USDT(BEP-20)",
+      "id": "qtKGMZesb1OkLhNMIB6oYSBChxq2",
+      "level": "3",
+      "referredBy": "767740",
+      "request": "Deposit",
+      "requestId": "-Ng-Zj5wIGCs4o5jd9S8",
+      "status": "Completed",
+      "timestamp": 1696521711779,
+      "trxId": "asddas",
+      "username": "793175"
+    },
+    "-Ng-_uLqqc0hfjufMplh": {
+      "amount": "600",
+      "chain": "USDT(BEP-20)",
+      "id": "qtKGMZesb1OkLhNMIB6oYSBChxq2",
+      "level": "3",
+      "referredBy": "767740",
+      "request": "Deposit",
+      "requestId": "-Ng-_uLqqc0hfjufMplh",
+      "status": "Completed",
+      "timestamp": 1696522019997,
+      "trxId": "asd",
+      "username": "793175"
+    },
+    "-Ng-pafJLPJxhSuQnYH9": {
+      "amount": "600",
+      "chain": "USDT(BEP-20)",
+      "id": "DQqP1eorEBf8n48PBWAQYxRfQoS2",
+      "level": "3",
+      "referredBy": "793175",
+      "request": "Deposit",
+      "requestId": "-Ng-pafJLPJxhSuQnYH9",
+      "status": "Completed",
+      "timestamp": 1696526133631,
+      "trxId": "sdf",
+      "username": "665416"
+    },
+    "-Ng-qH7IH0CbCh_Id56F": {
+      "amount": "600",
+      "chain": "USDT(BEP-20)",
+      "id": "DQqP1eorEBf8n48PBWAQYxRfQoS2",
+      "level": "3",
+      "referredBy": "793175",
+      "request": "Deposit",
+      "requestId": "-Ng-qH7IH0CbCh_Id56F",
+      "status": "Completed",
+      "timestamp": 1696526311611,
+      "trxId": "sdfa",
+      "username": "665416"
+    },
+    "-Ng-v3xFBLrTotgPaUHj": {
+      "amount": "200",
+      "chain": "USDT(BEP-20)",
+      "id": "hAAFczQnMtOvyywM6g2T4eqEvDD3",
+      "level": "1",
+      "referredBy": "793175",
+      "request": "Deposit",
+      "requestId": "-Ng-v3xFBLrTotgPaUHj",
+      "status": "Completed",
+      "timestamp": 1696527568385,
+      "trxId": "sad",
+      "username": "998324"
+    },
+    "-Ng-vFbU3q7mMhJhRkUc": {
+      "amount": "400",
+      "chain": "USDT(BEP-20)",
+      "id": "qCz196NhHST7HNZ6wVgZa1Lqvfn1",
+      "level": "2",
+      "referredBy": "793175",
+      "request": "Deposit",
+      "requestId": "-Ng-vFbU3q7mMhJhRkUc",
+      "status": "Completed",
+      "timestamp": 1696527616182,
+      "trxId": "dfs",
+      "username": "095846"
+    },
+    "-Ng-vTKeMiBm0bR_CLFW": {
+      "amount": "600",
+      "chain": "USDT(BEP-20)",
+      "id": "B34ZB29qiZQTPTmCgkqaofyGppn1",
+      "level": "3",
+      "referredBy": "793175",
+      "request": "Deposit",
+      "requestId": "-Ng-vTKeMiBm0bR_CLFW",
+      "status": "Completed",
+      "timestamp": 1696527672326,
+      "trxId": "dsfsg",
+      "username": "719240"
+    },
+    "-Ng-w2Rcw7uU37dyq4IK": {
+      "amount": "1500",
+      "chain": "USDT(BEP-20)",
+      "id": "u8Mdv9xvD4bW8bEUfchLoN0ucn22",
+      "level": "6",
+      "referredBy": "793175",
+      "request": "Deposit",
+      "requestId": "-Ng-w2Rcw7uU37dyq4IK",
+      "status": "Completed",
+      "timestamp": 1696527824336,
+      "trxId": "dfg",
+      "username": "484805"
+    },
+    "-Ng-xpCU3n-jVDLVloo2": {
+      "amount": "200",
+      "chain": "USDT(BEP-20)",
+      "id": "DQqP1eorEBf8n48PBWAQYxRfQoS2",
+      "level": "1",
+      "referredBy": "793175",
+      "request": "Deposit",
+      "requestId": "-Ng-xpCU3n-jVDLVloo2",
+      "status": "Completed",
+      "timestamp": 1696528290309,
+      "trxId": "sdf",
+      "username": "665416"
+    },
+    "-Ng-yReKE4m1P9tJvpCY": {
+      "amount": "400",
+      "chain": "USDT(BEP-20)",
+      "id": "DQqP1eorEBf8n48PBWAQYxRfQoS2",
+      "level": "2",
+      "referredBy": "793175",
+      "request": "Deposit",
+      "requestId": "-Ng-yReKE4m1P9tJvpCY",
+      "status": "Completed",
+      "timestamp": 1696528451949,
+      "trxId": "sdfsd",
+      "username": "665416"
+    },
+    "-Ng-zhlu9jIakj22qzBs": {
+      "amount": "600",
+      "chain": "USDT(BEP-20)",
+      "id": "DQqP1eorEBf8n48PBWAQYxRfQoS2",
+      "level": "3",
+      "referredBy": "793175",
+      "request": "Deposit",
+      "requestId": "-Ng-zhlu9jIakj22qzBs",
+      "status": "Completed",
+      "timestamp": 1696528784246,
+      "trxId": "adsf",
+      "username": "665416"
+    },
+    "-Ng-zhyljRmvVpBD31Uy": {
+      "amount": "600",
+      "chain": "USDT(BEP-20)",
+      "id": "DQqP1eorEBf8n48PBWAQYxRfQoS2",
+      "level": "3",
+      "referredBy": "793175",
+      "request": "Deposit",
+      "requestId": "-Ng-zhyljRmvVpBD31Uy",
+      "status": "Completed",
+      "timestamp": 1696528785085,
+      "trxId": "adsf",
+      "username": "665416"
+    },
+    "-Ng0-CpwB4OAU6pb6pra": {
+      "amount": "200",
+      "chain": "USDT(BEP-20)",
+      "id": "hAAFczQnMtOvyywM6g2T4eqEvDD3",
+      "level": "1",
+      "referredBy": "793175",
+      "request": "Deposit",
+      "requestId": "-Ng0-CpwB4OAU6pb6pra",
+      "status": "Rejected",
+      "timestamp": 1696528915525,
+      "trxId": "dfsfs",
+      "username": "998324"
+    },
+    "-Ng0-DMrLk3jEykckrLE": {
+      "amount": "200",
+      "chain": "USDT(BEP-20)",
+      "id": "hAAFczQnMtOvyywM6g2T4eqEvDD3",
+      "level": "1",
+      "referredBy": "793175",
+      "request": "Deposit",
+      "requestId": "-Ng0-DMrLk3jEykckrLE",
+      "status": "Completed",
+      "timestamp": 1696528917688,
+      "trxId": "dfsfs",
+      "username": "998324"
+    },
+    "-Ng0-_QaafkqWab7hwuN": {
+      "amount": "400",
+      "chain": "USDT(BEP-20)",
+      "id": "qCz196NhHST7HNZ6wVgZa1Lqvfn1",
+      "level": "2",
+      "referredBy": "793175",
+      "request": "Deposit",
+      "requestId": "-Ng0-_QaafkqWab7hwuN",
+      "status": "Completed",
+      "timestamp": 1696529012123,
+      "trxId": "sgfdgs",
+      "username": "095846"
+    },
+    "-Ng0-_mIU0IL4DZdibqr": {
+      "amount": "400",
+      "chain": "USDT(BEP-20)",
+      "id": "qCz196NhHST7HNZ6wVgZa1Lqvfn1",
+      "level": "2",
+      "referredBy": "793175",
+      "request": "Deposit",
+      "requestId": "-Ng0-_mIU0IL4DZdibqr",
+      "status": "Completed",
+      "timestamp": 1696529013569,
+      "trxId": "sgfdgs",
+      "username": "095846"
+    },
+    "-Ng0-wO3iMSszaD_fKtE": {
+      "amount": "600",
+      "chain": "USDT(BEP-20)",
+      "id": "B34ZB29qiZQTPTmCgkqaofyGppn1",
+      "level": "3",
+      "referredBy": "793175",
+      "request": "Deposit",
+      "requestId": "-Ng0-wO3iMSszaD_fKtE",
+      "status": "Completed",
+      "timestamp": 1696529106211,
+      "trxId": "hfj",
+      "username": "719240"
+    },
+    "-Ng00HL78-5jSqqm2Ymm": {
+      "amount": "1500",
+      "chain": "USDT(BEP-20)",
+      "id": "u8Mdv9xvD4bW8bEUfchLoN0ucn22",
+      "level": "6",
+      "referredBy": "793175",
+      "request": "Deposit",
+      "requestId": "-Ng00HL78-5jSqqm2Ymm",
+      "status": "Completed",
+      "timestamp": 1696529196085,
+      "trxId": "fdg",
+      "username": "484805"
+    },
+    "-Ng00HklAi0vHT4QKN2G": {
+      "amount": "1500",
+      "chain": "USDT(BEP-20)",
+      "id": "u8Mdv9xvD4bW8bEUfchLoN0ucn22",
+      "level": "6",
+      "referredBy": "793175",
+      "request": "Deposit",
+      "requestId": "-Ng00HklAi0vHT4QKN2G",
+      "status": "Completed",
+      "timestamp": 1696529197784,
+      "trxId": "fdg",
+      "username": "484805"
+    }
+  },
+  "supportLink": "https://t.me/co_NovaTrustApp",
+  "userAgreement": "Nova Trust User Agreement\n\nIntroduction\nWelcome to Nova Trust, a platform that facilitates investments in stocks, cryptocurrencies, trading, and ethical businesses. This User Agreement outlines the terms and conditions that govern your use of the Nova Trust Android app and related services. By using the Nova Trust app and services, you agree to the terms and conditions set forth in this agreement.\n\nPlease read this User Agreement carefully to understand your rights and responsibilities as a user of Nova Trust.\n\n1. Account Creation\n1.1. Account Eligibility: You must be at least 18 years old and comply with all legal requirements in your jurisdiction to use Nova Trust.\n\n1.2. Accurate Information: You agree to provide accurate and up-to-date information during the registration process, including your name, email address, and identification documents.\n\n1.3. Security: You are responsible for maintaining the confidentiality of your login credentials. Nova Trust is not responsible for any unauthorized access to your account.\n\n2. Investment Levels\n2.1. Investment Options: Nova Trust offers seven different investment levels, each associated with a specific investment amount and profit potential. Your choice of investment level is at your discretion.\n\n2.2. Maximum Earnings: The maximum earnings from your investment are capped at up to five times your initial investment.\n\n3. Investment Process\n3.1. Deposit Conditions: You are required to make deposits following the specified conditions, including the accepted networks (USDT BEP20 & USDT TRC-20) and the investment currency (USDT - Stable Currency).\n\n3.2. Verification: Nova Trust reserves the right to verify your identity and transaction details to ensure compliance with legal and regulatory requirements.\n\n3.3. Investment Portfolio: Nova Trust invests your funds in a diversified portfolio of stocks, cryptocurrencies, trading, and ethical businesses. We do not engage in gambling or interest-based activities.\n\n4. Profit Distribution\n4.1. Distribution Dates: Profit is distributed on the 1st and 16th of each month.\n\n4.2. Earnings Calculation: Earnings are calculated based on the performance of the investment portfolio and your chosen investment level.\n\n5. Termination\n5.1. Contract Completion: Once you achieve your investment goals, you will receive a completion message. You can then choose to terminate your contract or reinvest with Nova Trust.\n\n6. Disclaimers\n6.1. Investment Risks: All investments carry inherent risks. Nova Trust does not guarantee profits, and the value of your investments may fluctuate.\n\n6.2. Market Volatility: The financial markets can be highly volatile, and past performance does not guarantee future results.\n\n6.3. Third-Party Services: Nova Trust is not responsible for any actions or services provided by third-party platforms such as Bybit and Bitget.\n\n7. Data Privacy\n7.1. Privacy Policy: By using Nova Trust, you consent to our Privacy Policy, which outlines how we collect, use, and protect your data.\n\n8. Changes to Terms\n8.1. Updates: Nova Trust may update this User Agreement from time to time to reflect changes in our services or legal requirements. We will notify users of significant changes.\n\n9. Contact Information\nIf you have any questions, concerns, or requests related to this User Agreement or Nova Trust's services, please contact us at [Insert Contact Information].\n\nBy using the Nova Trust app and services, you acknowledge that you have read, understood, and agreed to the terms and conditions outlined in this User Agreement. Your use of Nova Trust is subject to compliance with these terms, and any violation may result in account termination or legal action. Nova Trust is committed to providing a secure and transparent investment platform for your financial success.",
+  "users": {
+    "101677": {
+      "balance": 15,
+      "country": "Armenia",
+      "dateOfBirth": "11122002",
+      "earned": 0,
+      "email": "isafeer416@gmail.com",
+      "firstRefferalPayment": true,
+      "history": {
+        "-NgA54ptGTn5W7yiU1g5": {
+          "Type": "Refferal Bonus",
+          "amount": "15",
+          "date": "10/7/2023",
+          "time": "10:03:47 PM"
+        }
+      },
+      "isAgent": false,
+      "isBlocked": false,
+      "name": "Safeer Iqbal",
+      "password": "safeer123",
+      "plan": 0,
+      "referrals": {
+        "727193": {
+          "approved": false,
+          "profit": 0
+        }
+      },
+      "referredBy": "793175",
+      "refferalEarning": 15,
+      "withdrawalAddress": "151620sddqefws223444fssef",
+      "withdrawalPIN": "2050"
+    },
+    "213994": {
+      "balance": 0,
+      "country": "Burundi",
+      "dateOfBirth": 1083524655083,
+      "earned": 0,
+      "email": "bilalkhanruddy@gmail.com",
+      "firstRefferalPayment": false,
+      "name": "bilal",
+      "password": "muslimmodels",
+      "plan": 0,
+      "referredBy": "241501",
+      "refferalEarning": 0
+    },
+    "241501": {
+      "balance": 0,
+      "country": "Austria",
+      "earned": 0,
+      "email": "maviyaakram5@gmail.com",
+      "firstRefferalPayment": false,
+      "name": "Maviya ",
+      "password": "muslimmodels",
+      "plan": 0,
+      "referrals": {
+        "213994": {
+          "approved": false,
+          "profit": 0
+        },
+        "898437": {
+          "approved": false,
+          "profit": 0
+        }
+      },
+      "referredBy": "727193",
+      "refferalEarning": 0
+    },
+    "727193": {
+      "balance": 0,
+      "country": "Australia",
+      "dateOfBirth": "11122002",
+      "earned": 0,
+      "email": "maviyaakram6@gmail.com",
+      "firstRefferalPayment": false,
+      "name": "Maviya Akram",
+      "password": "muslimmodels",
+      "plan": 0,
+      "referrals": {
+        "241501": {
+          "approved": false,
+          "profit": 0
+        }
+      },
+      "referredBy": "101677",
+      "refferalEarning": 0,
+      "withdrawalAddress": "Test",
+      "withdrawalPIN": "3510"
+    }
+  }
+}

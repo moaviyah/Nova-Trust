@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "Nova Trust",
+    "slug": "Nova-Trust",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/TrustNOVALogo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/TrustNOVALogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/TrustNOVALogo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.moaviya66.NovaAdmin"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/5fe861f2-181d-4bde-b2bd-d79f48b0e392"
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "43b8fcb5-bb92-4e70-8146-36e521daae5c"
+      }
+    },
+    "owner": "moaviya66"
+  }
+}
