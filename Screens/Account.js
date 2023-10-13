@@ -24,14 +24,15 @@ const Account = ({ navigation }) => {
   const [balance, setBalance] = useState()
   const db = getDatabase();
   const [supportLink, setSupportLink] = useState('');
-  const [dob, setDob] = useState('')
+  const [dob, setDob] = useState('11 DEC 2023')
   
 
 // Format the date as "dd MMMM yyyy" (e.g., "22 August 2023")
 const formattedDate = (date) =>{ 
   const tmpDate = format(date, 'dd MMMM yyyy');
-  return tmpDate
+  return tmpDate;
 }
+
   const handleSignOut = () => {
     signOut(auth)
       .then(() => {
@@ -111,10 +112,11 @@ const formattedDate = (date) =>{
             <Text style={styles.boldText}>Email: </Text>
                {email}
                </Text>
-               <Text style={styles.name}>
+               {/* <Text style={styles.name}>
+                
             <Text style={styles.boldText}>Date Of Birth: </Text>
                {formattedDate(dob)}
-               </Text>
+               </Text> */}
           </View>
         </TouchableOpacity>
 
