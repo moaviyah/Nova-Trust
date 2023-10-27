@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { StyleSheet, View, Text, TextInput, TouchableOpacity, SafeAreaView, Dimensions, Alert, ScrollView, KeyboardAvoidingView, Pressable } from 'react-native';
+import { StyleSheet, View, Text, TextInput, TouchableOpacity, SafeAreaView, Dimensions, Alert, ScrollView, KeyboardAvoidingView, Pressable, Image } from 'react-native';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 import { background, primary } from '../color';
 import { getAuth, createUserWithEmailAndPassword, updateProfile } from "firebase/auth";
@@ -326,8 +326,11 @@ export default function SignUp({ navigation }) {
     return (
         <SafeAreaView style={styles.container}>
             <ScrollView>
+                <View style={{ flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginVertical: 50, paddingHorizontal: 10 }}>
+                    <Ionicons name="chevron-back-sharp" style={styles.icon} size={26} onPress={() => navigation.goBack()} />
+                    <Image source={require('../assets/TrustNOVALogo.png')} style={{ height: 100, width: 120, alignSelf: 'center' }} />
+                </View>
                 <View style={styles.top}>
-                    <Ionicons name='chevron-back-sharp' style={styles.icon} size={26} onPress={() => { navigation.goBack(); }} />
                     <Text style={styles.main_heading}>Create an account</Text>
                     <Text style={styles.second_heading}>Invest with us & earn profit regularly</Text>
                 </View>

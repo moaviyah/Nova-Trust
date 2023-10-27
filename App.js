@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View, ActivityIndicator } from 'react-native';
+import { StyleSheet, Text, View, ActivityIndicator, Image,  } from 'react-native';
 import { useState, useEffect } from 'react';
 import { NavigationContainer } from '@react-navigation/native'
 import { createNativeStackNavigator } from '@react-navigation/native-stack'
@@ -50,18 +50,22 @@ const Stack = createNativeStackNavigator()
 export default function App() {
   const [initialRoute, setInitialRoute] = useState(null);
   const [loading, setLoading] = useState(true)
+  function SplashScreen() {
+    setTimeout(() => {
+      // Check the authentication status
+      onAuthStateChanged(auth, (user) => {
+        if (user) {
+          setInitialRoute('Dashboard');
+        setLoading(false) // Navigate to the authenticated screen
+        } else {
+          setInitialRoute('Welcome');
+        setLoading(false)
+        }
+      });
+    }, 2000); // Display the splash screen for 1 second (1000 milliseconds)
+}
   useEffect(() => {
-    const unsubscribe = onAuthStateChanged(auth, (user) => {
-      if (user) {
-        setInitialRoute('Login');
-        setLoading(false)
-      } else {
-        setInitialRoute('Welcome');
-        setLoading(false)
-      }
-    });
-    unsubscribe
-
+    SplashScreen()
   }, []);
   return (
     <View style={{ flex: 1 }}>
@@ -69,7 +73,7 @@ export default function App() {
         loading ?
           (
             <View style={{ height: '100%', alignItems: 'center', justifyContent: 'center' }}>
-              <ActivityIndicator size={50} color={'green'} />
+              <Image style={styles.splashIcon} source={require('./assets/TrustNOVALogo.png')} />
             </View>
           )
           :
@@ -132,5 +136,14 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
+  },
+  splashContainer: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  splashIcon: {
+    height:250,
+    width:300,
   },
 });

@@ -4,7 +4,7 @@
     "slug": "Nova-Trust",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/TrustNOVALogo.png",
+    "icon": "./assets/AppIcon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/TrustNOVALogo.png",
@@ -16,14 +16,14 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.moaviya66.NovaAdmin"
+      "bundleIdentifier": "com.company.NovaTrust"
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/TrustNOVALogo.png",
+        "foregroundImage": "./assets/AppIcon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.moaviya66.NovaAdmin"
+      "package": "com.company.NovaTrust"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -34,17 +34,14 @@
     "runtimeVersion": {
       "policy": "appVersion"
     },
-    "updates": {
-      "url": "https://u.expo.dev/5fe861f2-181d-4bde-b2bd-d79f48b0e392"
-    },
     "extra": {
       "router": {
         "origin": false
       },
       "eas": {
-        "projectId": "43b8fcb5-bb92-4e70-8146-36e521daae5c"
+        "projectId": "1c16b387-aa8d-47f6-a251-7342572b8527"
       }
     },
-    "owner": "moaviya66"
+    "owner": "maviya191176"
   }
 }

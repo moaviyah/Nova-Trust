@@ -7,6 +7,7 @@ import {
   TouchableOpacity,
   SafeAreaView,
   Dimensions,
+  Image,
 } from 'react-native';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 import { background, primary } from '../color';
@@ -60,10 +61,14 @@ export default function Login({ navigation }) {
 
   return (
     <SafeAreaView style={styles.container}>
+      <View style={{flexDirection:'row', justifyContent:'space-between', alignItems:'center', marginVertical:50, paddingHorizontal:10}}>
+      <Ionicons name="chevron-back-sharp" style={styles.icon} size={26} onPress={() => navigation.goBack()} />
+      <Image source={require('../assets/TrustNOVALogo.png')} style={{height:100, width:120, alignSelf:'center', borderRadius:20}}/>
+      </View>
       <View style={styles.top}>
-        <Ionicons name="chevron-back-sharp" style={styles.icon} size={26} onPress={() => navigation.goBack()} />
         <Text style={styles.main_heading}>Login with an account</Text>
         <Text style={styles.second_heading}>Invest with us & earn profit regularly</Text>
+        
       </View>
       <View style={styles.main}>
         <TextInput
@@ -116,7 +121,7 @@ const styles = StyleSheet.create({
   },
   top: {},
   icon: {
-    marginTop: 30,
+    marginTop: 50,
     marginHorizontal: 10,
   },
   main_heading: {
@@ -132,7 +137,7 @@ const styles = StyleSheet.create({
     margin: windowHeight * 0.01,
   },
   main: {
-    marginTop: windowHeight * 0.05,
+    marginTop: 20,
   },
   input: {
     height: windowHeight * 0.08,
